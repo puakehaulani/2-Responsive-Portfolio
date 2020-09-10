@@ -1,0 +1,19 @@
+body {
+  background-image: url("assets/background.jpg");
+}
+
+footer {
+  color: #777;
+  background-color: #666;
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar-brand {
+  padding: 10px;
+  background-color: #4baaa4;
+}
+
+.container {
+  background-color: white;
+}
