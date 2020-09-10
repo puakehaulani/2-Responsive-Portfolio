@@ -18,6 +18,7 @@ body {
 .container {
   background-color: white;
   margin: 80px 0 20px 20px;
+  min-height: 100%;
 }
 
 h1 {
@@ -36,4 +37,6 @@ footer {
   border-top-style: solid;
   border-top-color: #4baaa4;
   border-top-width: 5px;
+  bottom: 0;
+  width: 100%;
 }
