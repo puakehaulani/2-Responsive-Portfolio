@@ -15,7 +15,7 @@ body {
   font-family: serif;
 }
 
-.container {
+.container-md {
   background-color: white;
   margin: 80px 0 20px 20px;
   min-height: 100%;
