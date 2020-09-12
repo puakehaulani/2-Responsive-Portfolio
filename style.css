@@ -9,12 +9,13 @@ body {
   background-image: url("assets/background.jpg");
 }
 
-.navbar-brand {
+#navbar-brand {
   padding: 10px;
   background-color: #4baaa4;
   font-weight: bold;
   font-family: serif;
   margin-left: 5px;
+  color: white;
 }
 
 .container {
