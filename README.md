@@ -5,7 +5,7 @@
 
 ## About the Project
 
-Responsive Portfolio is Homework 2 for UW Coding Bootcamp. We were instructed to create a responsive portfolio using Bootstrap. We were given example images to recreate for three linked webpages: an About Me (Index), a Portfolio page, and a Contact page.
+**Responsive Portfolio** is Homework 2 for UW Coding Bootcamp. We were instructed to create a responsive portfolio using Bootstrap. We were given example images to recreate for three linked webpages: an About Me (Index), a Portfolio, and a Contact page. I focused on creating the format of the page primarily with Bootstrap classes, and made small changes in the CSS stylesheet to match the styling to the sample images. Bootstrap allowed me to make the contents of the page responsive to screen size changes by taking advantage of the container, rows, and columns, as well as the precoded Bootstrap classes.
 
 ![Index](/assets/aboutme.png)
 
