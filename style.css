@@ -23,9 +23,11 @@ body {
   margin-bottom: 50px;
 }
 
-main {
-  background-color: white;
+.card {
+  border-radius: 0;
+  border: 0;
 }
+
 h1 {
   color: #4baaa4;
   padding-top: 20px;
@@ -55,6 +57,7 @@ footer {
   color: white;
   margin-bottom: 30px;
   border-radius: 0;
+  border-color: #4baaa4;
 }
 
 .form-control {
@@ -63,4 +66,5 @@ footer {
 
 p {
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 150%;
 }
